@@ -30,7 +30,7 @@ more-itertools==8.2.0
 packaging==20.1
 pluggy==0.13.1
 psycopg2-binary==2.8.4
-py==1.8.1
+py==1.10.0
 pyasn1==0.4.8
 pycryptodome==3.6.6
 PyJWT==1.7.1
